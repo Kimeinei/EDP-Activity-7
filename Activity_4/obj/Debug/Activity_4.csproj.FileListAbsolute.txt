@@ -1,0 +1,157 @@
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\Activity_4.exe.config
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\Activity_4.exe
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\Activity_4.pdb
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.Login.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.Properties.Resources.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.exe
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.pdb
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.ForgotPassword.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.NewPassword.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.Dashboard.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.About.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.Reports.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.Search.resources
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\Activity_4\Activity_4\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.Up2Date
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\bin\Debug\Activity_4.exe.config
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\bin\Debug\Activity_4.exe
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\bin\Debug\Activity_4.pdb
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.About.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.Dashboard.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.ForgotPassword.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.Search.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.Login.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.NewPassword.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.Properties.Resources.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.Reports.resources
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.CopyComplete
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.exe
+C:\Users\admin\Desktop\EDP ME\Salting\Activity 5\Activity_4\Activity_4\obj\Debug\Activity_4.pdb
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\bin\Debug\Activity_4.exe.config
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\bin\Debug\Activity_4.exe
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\bin\Debug\Activity_4.pdb
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.About.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.Dashboard.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.Search.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.Login.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.NewPassword.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.Properties.Resources.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.Reports.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.SignUp.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.Up2Date
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.exe
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.pdb
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001\Activity_4\Activity_4\obj\Debug\Activity_4.Management.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\bin\Debug\Activity_4.exe.config
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\bin\Debug\Activity_4.exe
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\bin\Debug\Activity_4.pdb
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.About.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.Dashboard.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.Management.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.Search.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.Login.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.NewPassword.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.Properties.Resources.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.Reports.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.SignUp.resources
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.Up2Date
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.exe
+C:\Users\user\Downloads\Compressed\Activity_4-20240311T131830Z-001 - Copy - Copy - Copy\Activity_4\Activity_4\obj\Debug\Activity_4.pdb
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\Activity_4.exe.config
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\Activity_4.exe
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\Activity_4.pdb
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Memory.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Buffers.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.About.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.Dashboard.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.Management.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.Search.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.Login.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.NewPassword.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.Properties.Resources.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.Reports.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.SignUp.resources
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.Up2Date
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.exe
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\obj\Debug\Activity_4.pdb
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\EPPlus.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\EPPlus.xml
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Buffers.xml
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Memory.xml
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Downloads\Compressed\Activity_4\Activity_4\Activity_4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\Activity_4.exe.config
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\Activity_4.exe
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\Activity_4.pdb
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\EPPlus.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\EPPlus.xml
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.About.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.Dashboard.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.Management.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.Search.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.Login.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.NewPassword.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.Properties.Resources.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.Reports.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.SignUp.resources
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.Up2Date
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.exe
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.pdb
+C:\Users\user\Desktop\BSIT stuff\3rd year\2nd sem\IT 120 - EDP\Activity 6\Activity_4\Activity_4\obj\Debug\Activity_4.csproj.ResolveComReference.cache

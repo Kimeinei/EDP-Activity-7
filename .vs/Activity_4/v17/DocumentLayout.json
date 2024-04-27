@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|c:\\users\\user\\desktop\\bsit stuff\\3rd year\\2nd sem\\it 120 - edp\\activity 6\\activity_4\\activity_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|solutionrelative:activity_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\activity_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|solutionrelative:activity_4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\activity_4\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|solutionrelative:activity_4\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\activity_4\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|solutionrelative:activity_4\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\activity_4\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8ADBA61-97BE-49CA-91E4-72DB99088935}|Activity_4\\Activity_4.csproj|solutionrelative:activity_4\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Login.cs",
+              "RelativeDocumentMoniker": "Activity_4\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Login.cs",
+              "RelativeToolTip": "Activity_4\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:02:21.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Login.cs",
+              "RelativeDocumentMoniker": "Activity_4\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Login.cs [Design]",
+              "RelativeToolTip": "Activity_4\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:02:14.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Reports.cs",
+              "RelativeDocumentMoniker": "Activity_4\\Reports.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Reports.cs",
+              "RelativeToolTip": "Activity_4\\Reports.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAiwBoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:45:35.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Search.cs",
+              "RelativeDocumentMoniker": "Activity_4\\Search.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Search.cs",
+              "RelativeToolTip": "Activity_4\\Search.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:45:10.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Search.cs",
+              "RelativeDocumentMoniker": "Activity_4\\Search.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BSIT stuff\\3rd year\\2nd sem\\IT 120 - EDP\\Activity 6\\Activity_4\\Activity_4\\Search.cs [Design]",
+              "RelativeToolTip": "Activity_4\\Search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:57:02.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
